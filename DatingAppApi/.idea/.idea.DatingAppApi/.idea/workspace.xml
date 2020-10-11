@@ -23,8 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c9174c1-02ed-45d2-9da0-d365a78d6d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DatingAppApi/Controllers/UsersController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +112,7 @@
       <workItem from="1602286862499" duration="590000" />
       <workItem from="1602287551350" duration="756000" />
       <workItem from="1602388925666" duration="3850000" />
-      <workItem from="1602392899735" duration="3947000" />
+      <workItem from="1602392899735" duration="5105000" />
     </task>
     <servers />
   </component>
