@@ -8,7 +8,18 @@
         <e p="Controllers" t="Include">
           <e p="WeatherForecastController.cs" t="Include" />
         </e>
+        <e p="Data" t="Include">
+          <e p="DataContext.cs" t="Include" />
+          <e p="Migration" t="Include">
+            <e p="20201011052813_InitialCreate.Designer.cs" t="Include" />
+            <e p="20201011052813_InitialCreate.cs" t="Include" />
+            <e p="DataContextModelSnapshot.cs" t="Include" />
+          </e>
+        </e>
         <e p="DatingAppApi.csproj" t="IncludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="AppUser.cs" t="Include" />
+        </e>
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="launchSettings.json" t="Include" />

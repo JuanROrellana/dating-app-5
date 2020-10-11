@@ -23,10 +23,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c9174c1-02ed-45d2-9da0-d365a78d6d97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DatingAppApi/.config/dotnet-tools.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatingAppApi/Data/DataContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatingAppApi/Data/Migration/20201011052813_InitialCreate.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatingAppApi/Data/Migration/20201011052813_InitialCreate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatingAppApi/Data/Migration/DataContextModelSnapshot.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DatingAppApi/Entities/AppUser.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DatingAppApi/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingAppApi/DatingAppApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DatingAppApi/DatingAppApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingAppApi/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatingAppApi/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatingAppApi/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/DatingAppApi/appsettings.Development.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,15 +44,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B28733D4-7427-4250-9FB0-0BE44465EE7B/2/Host.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/DatingAppApi/Controllers/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/DatingAppApi/Entities/AppUser.cs" />
+        <option value="$PROJECT_DIR$/DatingAppApi/Data/DataContext.cs" />
+        <option value="$PROJECT_DIR$/DatingAppApi/DatingAppApi.csproj" />
+        <option value="$PROJECT_DIR$/DatingAppApi/Data/Migration/20201011052813_InitialCreate.cs" />
         <option value="$PROJECT_DIR$/DatingAppApi/Startup.cs" />
+        <option value="$PROJECT_DIR$/DatingAppApi/appsettings.Development.json" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1iGP98Ek5sKqVRSs1qiQdFgJNhb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -100,7 +120,8 @@
       <workItem from="1601578483799" duration="2376000" />
       <workItem from="1602286862499" duration="590000" />
       <workItem from="1602287551350" duration="756000" />
-      <workItem from="1602388925666" duration="348000" />
+      <workItem from="1602388925666" duration="3850000" />
+      <workItem from="1602392899735" duration="2711000" />
     </task>
     <servers />
   </component>
@@ -125,11 +146,23 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="619" y="172" width="671" height="769" key="RiderGenerateDialog" timestamp="1602391585332">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="619" y="172" width="671" height="769" key="RiderGenerateDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1602391585332" />
     <state x="855" y="203" width="1012" height="737" key="SettingsEditor" timestamp="1602389273065">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="855" y="203" width="1012" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1602389273065" />
     <state x="471" y="226" width="1012" height="737" key="SettingsEditor/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1602287739315" />
     <state x="2775" y="180" width="1022" height="737" key="SettingsEditor/1920.0.1920.1080/3840.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1602287986431" />
+    <state width="498" height="445" key="SwitcherDM" timestamp="1602395295883">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="498" height="445" key="SwitcherDM/0.27.1920.1053@0.27.1920.1053" timestamp="1602395295883" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1602391715086">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1602391715086" />
   </component>
 </project>
